@@ -8,4 +8,8 @@ The software required for programming the board is here: [Pinguino Project](http
 
 ## Final Hardware
 
-![final](pinguino_4550.jpg)
+![Final](pinguino_4550.jpg)
+
+## Schematics
+
+![Schematics](pinguino_schematics.png)
