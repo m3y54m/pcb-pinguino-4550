@@ -1,4 +1,4 @@
-# PIC-based Arduino-like Board, Pinguino
+# Pinguino: PIC-based Arduino-like Development Board
 
 Designed and built just for FUN in 2016.
 
@@ -8,8 +8,8 @@ The software required for programming the board is here: [Pinguino Project](http
 
 ## Final Hardware
 
-![Final](pinguino_4550.jpg)
+![Final](images/pinguino_4550.jpg)
 
 ## Schematics
 
-![Schematics](pinguino_schematics.png)
+![Schematics](images/pinguino_schematics.png)
